@@ -105,7 +105,7 @@ Through this project, I developed skills in:
 ------------------------------------------------------------------------
 
 ## 📸 Project Gallery
->  img width="1244" height="641" alt="project_1" src="https://github.com/user-attachments/assets/87386b14-a1fb-44c9-a8f3-b0012d4547a4" />
+>  <img width="1244" height="641" alt="project_1" src="https://github.com/user-attachments/assets/87386b14-a1fb-44c9-a8f3-b0012d4547a4" />
 >   <img width="1549" height="737" alt="project_1_2" src="https://github.com/user-attachments/assets/c1b9391f-f5e1-474f-a749-6859bda27af3" />
 
 
